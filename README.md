@@ -14,5 +14,5 @@ This repository contains an implementation of a **Variational Quantum Classifier
 - [Variational Quantum Algorithms](https://arxiv.org/abs/1812.11075)
 
 ## Author
-PRiyansh Jain
+Priyansh Jain
 
